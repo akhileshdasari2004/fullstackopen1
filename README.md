@@ -1,4 +1,4 @@
-# FullStackOpen 2022
+# FullStackOpen 2024
 
 Solutions to exercises in FullStackOpen 2022
 
